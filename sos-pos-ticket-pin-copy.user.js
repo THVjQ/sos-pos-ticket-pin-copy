@@ -61,12 +61,12 @@
         /* The "Pin Enlarger" Effect on Hover */
         .ticket-pin-helper:hover {
             transform: scale(2.2);
-            background-color: #3b82f6 !important; /* SOS Blue */
+            background-color: #0d9488 !important;
             color: white !important;
             z-index: 9999;
             position: relative;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-            border: 1px solid #2563eb;
+            box-shadow: 0 4px 12px rgba(13,148,136,0.35);
+            border: 1px solid #14b8a6;
         }
     `;
     document.head.appendChild(style);
