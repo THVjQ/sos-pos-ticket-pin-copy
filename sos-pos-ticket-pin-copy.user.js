@@ -1,3 +1,4 @@
+// SOS
 // ==UserScript==
 // @name         SOS POS - Ticket PIN One-Click Copy v1
 // @namespace    http://tampermonkey.net/
